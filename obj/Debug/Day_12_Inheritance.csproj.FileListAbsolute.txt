@@ -1,0 +1,6 @@
+c:\users\dj\documents\visual studio 2015\Projects\Day_12_Inheritance\Day_12_Inheritance\bin\Debug\Day_12_Inheritance.exe.config
+c:\users\dj\documents\visual studio 2015\Projects\Day_12_Inheritance\Day_12_Inheritance\bin\Debug\Day_12_Inheritance.exe
+c:\users\dj\documents\visual studio 2015\Projects\Day_12_Inheritance\Day_12_Inheritance\bin\Debug\Day_12_Inheritance.pdb
+c:\users\dj\documents\visual studio 2015\Projects\Day_12_Inheritance\Day_12_Inheritance\obj\Debug\Day_12_Inheritance.csprojResolveAssemblyReference.cache
+c:\users\dj\documents\visual studio 2015\Projects\Day_12_Inheritance\Day_12_Inheritance\obj\Debug\Day_12_Inheritance.exe
+c:\users\dj\documents\visual studio 2015\Projects\Day_12_Inheritance\Day_12_Inheritance\obj\Debug\Day_12_Inheritance.pdb
